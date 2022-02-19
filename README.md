@@ -8,6 +8,8 @@ I'm Kashvi,
 
 - I am passionate about Web Dev and UI/UX designing but everything comes secondary to Machine Learning.
 
-Also, here's my LinkedIn! [![LinkedIn][1.2]][1]
+Also, here's my LinkedIn!  [![LinkedIn][1.2]][1]
+<!-- Icon -->
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
+<!-- Link -->
 [1]: https://www.linkedin.com/in/kashvi-garg-2k3

@@ -6,7 +6,7 @@ I'm Kashvi,
  
 - I'm obsessed with AI and not on the side of humans if there is ever a war. 
 
-- I am passionate about Web Dev and UI/UX designing but everything comes secondary to Machine Learning.
+- I am really really passionate about Flutter but anything comes secondary to Machine Learning.
 
 Here's how you can find me! 
  

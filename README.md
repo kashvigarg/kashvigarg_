@@ -10,8 +10,13 @@ I'm Kashvi,
 
 Here's how you can find me! 
  
-[![LinkedIn][1.2]][1]
+[![LinkedIn][1.2]][1]  [![Twitter][2.2]][2] 
 <!-- Icon -->
 [1.2]: 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 <!-- Link -->
 [1]: https://www.linkedin.com/in/kashvi-garg-2k3
+
+<!-- Icon -->
+[2.2]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+<!-- Link -->
+[2]: https://twitter.com/cashontwt
